@@ -1,4 +1,4 @@
-## SystemVerilog and C++ Nand2Tetris Hack platfor Simulator using Verilator.
+## SystemVerilog and C++ Nand2Tetris Hack platform Simulator using Verilator.
 
 This repo contains the SystemVerilog files describing the HACK Platform 
 
