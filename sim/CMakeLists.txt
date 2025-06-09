@@ -17,5 +17,3 @@ target_include_directories(hack_simulator
     ${SDL2_INCLUDE_DIRS}  
 )  
   
-# Copy program files to build directory (if needed)  
-file(COPY ${CMAKE_SOURCE_DIR}/programs/ DESTINATION ${CMAKE_CURRENT_BINARY_DIR}/programs/)  
